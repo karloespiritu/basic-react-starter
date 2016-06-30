@@ -2,7 +2,7 @@
 * @Author: Karlo Espiritu
 * @Date:   2016-06-30 19:17:00
 * @Last Modified by:   Karlo Espiritu
-* @Last Modified time: 2016-06-30 19:17:08
+* @Last Modified time: 2016-06-30 19:51:18
 */
 
 'use strict';
@@ -10,7 +10,7 @@
 var path = require('path');
 
 var config = {
-  context: path.join(__dirname, 'js'),
+  context: path.join(__dirname, 'src'),
   entry: [
     './main.js',
   ],

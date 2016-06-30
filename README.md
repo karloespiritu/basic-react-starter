@@ -1,0 +1,4 @@
+Minimal React Starter
+---
+
+Welcome.

@@ -1,28 +1,14 @@
 Minimal React Starter
 ---
 
-Welcome.
+A basic React starter project using ES6, Babel, and Webpack.
 
-
-Usage
----
-
-Start the development server with this command:
-
-```
-npm start
-```
-
-
-
-Setup
+Quick Setup
 ---
 
 ```
 npm install
 ```
-
-
 
 Compile
 ---
@@ -30,3 +16,16 @@ Compile
 ```
 npm run compile
 ```
+
+Usage
+---
+
+Start the development server:
+
+```
+npm start
+```
+
+
+
+
